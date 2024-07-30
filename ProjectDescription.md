@@ -5,7 +5,7 @@ Report and Code: The accompany report and code is available.
 
 <p>Languages and Tools: Python</p>
 
-<p> Algorithms Used and Their Metrics</p>
+<p> Algorithms and Accuracy Score</p>
               
 <li> Decision Tree -   0.900524 </li>
 <li> Logistic Regression -  0.801047 </li>
